@@ -4,8 +4,7 @@ weight: 160
 ---
 
 - **General Chair**:\
-  Zhihua Zhang, Peking University\
-  Aoying Zhou, East China Normal University
+  Zhihua Zhang, Peking University
 ________________________________________
 
 - **Program Committee** 
