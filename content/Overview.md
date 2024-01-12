@@ -11,11 +11,7 @@ The 2nd International Conference on Machine Learning and Statistics (**MLSTAT**)
 - **Aim**: The Machine Learning and Statistics Conference (MLSTAT) is an academic conference that serves to facilitate scholarly exchange among domestic and international scholars in the fields of machine learning and statistics. Through fostering an academic culture that promotes the mutual development of machine learning and statistics, the conference aims to advance foundational disciplines such as data science and artificial intelligence, and thereby contribute to the development of related digital economic industries.
 - **Conference Orgnizer**:\
   Machine Learning Branch of the Chinese Association for Applied Statistics\
-  School of Statistics, Northeast Normal University\
-  Academy of Statistical and Interdisciplinary Sciences, Northeast Normal University\
-  Key Laboratory of Advanced Theory and Application
- in Statistics and Data Science - MOE\
-  Statistical Application and Theoretical Research Overseas Expertise Introduction Center for Discipline Innovation
+  School of Mathematics and Statistics, Northeast Normal University\
 ________________________________________
 
 <!--
