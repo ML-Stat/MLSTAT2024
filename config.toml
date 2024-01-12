@@ -1,6 +1,6 @@
-baseurl = "https://ml-stat.github.io/MLSTAT2023/"
+baseurl = "https://ml-stat.github.io/MLSTAT2024/"
 languageCode = "en-us"
-title = "MLSTAT 2023"
+title = "MLSTAT 2024"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
@@ -16,9 +16,9 @@ unsafe = true
 	# author = "Bruce Eckel"
 	description = "A Self-Organizing Open-Spaces Unconference"
 
-	logo = "/images/dbsdA.png"
+	logo = "/images/dbsdAA.png"
 	favicon = "images/logo-color-small-2.png"
-	banner_image = "/images/hsdC.jpg"
+	banner_image = "/images/dbsdC.png"
 
 	permalink = "#"
 
