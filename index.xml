@@ -13,7 +13,7 @@
       
       <guid>https://ml-stat.github.io/MLSTAT2024/overview/</guid>
       <description>The 2nd International Conference on Machine Learning and Statistics (MLSTAT) will be held
-Date: August 24-26, 2024. Localtion: 5268 Renmin Street, Nanguan District, Changchun City, Jilin Province, China (Renmin Street Campus). Aim: The Machine Learning and Statistics Conference (MLSTAT) is an academic conference that serves to facilitate scholarly exchange among domestic and international scholars in the fields of machine learning and statistics. Through fostering an academic culture that promotes the mutual development of machine learning and statistics, the conference aims to advance foundational disciplines such as data science and artificial intelligence, and thereby contribute to the development of related digital economic industries.</description>
+Date: August 23-24, 2024. Localtion: 5268 Renmin Street, Nanguan District, Changchun City, Jilin Province, China (Renmin Street Campus). Aim: The Machine Learning and Statistics Conference (MLSTAT) is an academic conference that serves to facilitate scholarly exchange among domestic and international scholars in the fields of machine learning and statistics. Through fostering an academic culture that promotes the mutual development of machine learning and statistics, the conference aims to advance foundational disciplines such as data science and artificial intelligence, and thereby contribute to the development of related digital economic industries.</description>
     </item>
     
     <item>
@@ -23,8 +23,7 @@ Date: August 24-26, 2024. Localtion: 5268 Renmin Street, Nanguan District, Chang
       
       <guid>https://ml-stat.github.io/MLSTAT2024/committee/</guid>
       <description>General Chair:
-Zhihua Zhang, Peking University
-Aoying Zhou, East China Normal University Program Committee Program Chair:
+Zhihua Zhang, Peking University Program Committee Program Chair:
 Jianxing Yin, Renmin University of China
 Zhou Yu, Northeast Normal University Program Members:
 Jinyuan Chang, Southwest University of Finance and Economics
@@ -33,7 +32,9 @@ Zhenguo Li, Huawei
 Qian Lin, Tsinghua University
 Xin Liu, Institute of Mathematics and Systems Science, Chinese Academy of Sciences
 Deyu Meng, Xi&amp;rsquo;an Jiaotong University
-Wenguang Sun, Zhejiang University</description>
+Wenguang Sun, Zhejiang University
+Xiaofei Wang, Northeast Normal University
+Ke Wei, Fudan University</description>
     </item>
     
   </channel>
