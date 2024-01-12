@@ -1,5 +1,5 @@
 ---
-title: Machine Learning and Statistics 2023 Organizing Committee
+title: Machine Learning and Statistics 2024 Organizing Committee
 weight: 160
 ---
 
@@ -10,29 +10,30 @@ ________________________________________
 
 - **Program Committee** 
     - **Program Chair**:\
-     Wei Lin, Peking University\
-     Shurong Zheng, Northeast Normal University
+     Jianxing Yin, Renmin University of China\
+     Zhou Yu, Northeast Normal University
     - **Program Members**:\
-    Fang Fang, East China Normal University\
-    Tao Hu, Capital Normal University\
-    Yuling Jiao, Wuhan University\
-    Sai Li, Renmin University of China\
+    Jinyuan Chang, Southwest University of Finance and Economics\
+    Yi Chang, Jilin University\
+    Zhenguo Li, Huawei\
     Qian Lin, Tsinghua University\
-    Xiaojun Mao, Shanghai Jiao Tong University\
+    Xin Liu, Institute of Mathematics and Systems Science, Chinese Academy of Sciences\
     Deyu Meng, Xi'an Jiaotong University\
-    Wang Miao, Peking University\
-    Yijie Peng, Peking University\
-    Yixuan Qiu, Shanghai University of Finance and Economics\
-    Yan Xia, Fudan University\
-    Pengkun Yang, Tsinghua University\
-    Jianxin Yin, Renmin University of China\
-    Zemin Zheng, University of Science and Technology of China\
-    Wei Zhong, Xiamen University\
-    Ling Zhou, Southwestern University of Finance and Economics
+    Wenguang Sun, Zhejiang University\
+    Xiaofei Wang, Northeast Normal University\
+    Ke Wei, Fudan University\
+    Zhewei Wei, Renmin University of China\
+    Huazhe Xu, Tsinghua University\
+    Zhiqin Xu, Shanghai Jiao Tong University
 ________________________________________
 - **Communication Chair**:\
 Xiangyu Chang, Xi'an Jiaotong University\
-Zhou Yu, East China Normal University
+Shurong Zheng, Northeast Normal University
+
+- **Communication Member**:\
+Jing Chen, Northeast Normal University\
+Jingjing Jiang, Northeast Normal University\
+Xiaozhuo Zhang, Northeast Normal University
 
 
 
