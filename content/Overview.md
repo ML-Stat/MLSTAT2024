@@ -26,9 +26,13 @@ ________________________________________
 
 <hr style="border: 0; border-top: 5px solid;">
 
-To register the conference, please scan the QR code below and fill out the questionnaire .
+Please scan the WeChat QR code to join the group chat of this meeting
+Since the WeChat group chat QR code is valid for 7 days, please click on the link:
+https://www.alipan.com/s/W7MB6nVaNwn
+The group chat QR code for this meeting will be updated regularly in this link.
 
-<center><img src="/images/register_qrcode.jpg" alt="QR Code for Registration" height="200"></center>
+<center><img src="/images/one.jpg" alt="WeChat QR code" height="200"></center>
+<center><img src="/images/two.jpg" alt="to join the group chat of this meeting" height="200"></center>
 
 <!-- <style>
 
