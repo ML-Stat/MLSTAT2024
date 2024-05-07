@@ -9,24 +9,24 @@
     <atom:link href="https://ml-stat.github.io/MLSTAT2024/schedule/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keynote Speech 1 and 2</title>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/2/</guid>
+      <description>9:50 a.m. — 11:35 a.m., Friday, Aug. 23, 2024</description>
+    </item>
+    <item>
+      <title>Keynote Speech 1 and 2</title>
       <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/3/</guid>
       <description>9:50 a.m. — 11:35 a.m., Friday, Aug. 25, 2024</description>
     </item>
     <item>
-      <title>Schedules</title>
+      <title>Tutorial</title>
       <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/1/</guid>
-      <description> Tutorial 8月22日 周五下午-晚上（具体时间待定）:&#xA;演讲人：张志华；主持人：郑术蓉&#xA;题目：&#xA;摘要：&#xA;个人简介： </description>
-    </item>
-    <item>
-      <title>Schedules</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/2/</guid>
-      <description> Keynote&#xA;8月23日:&#xA;演讲人：李震国；主持人：常毅&#xA;题目：生成式人工智能的应用：从卫星通信、AIGC到定理证明&#xA;摘要: 生成模型通过对数据的建模，并从大量数据中压缩学习数据的高维分布和内蕴结构，从而使能各种应用，如数据压缩，艺术创作，定理证明等。在这个报告中，我将分享三个生成式AI项目：AI数据压缩与编码，文生图基础模型PixArt，以及自动定理证明系统LEGO-Prover。首先，我们将看到生成模型技术（Flow, VAE, Autoregressive）与信息编码技术的有效结合逼近香农定律、实现数据无损压缩、形成新一代基于AI的图像压缩标准JPEG-AI、并使能卫星图片通信；接着，我们将讨论如何通过技术创新从零构建一个低成本高质量的文生图基础模型，包括数据构建、模型架构、训练策略、采样、评估等；最后，我们将分享大语言模型在数学定理证明上的一个实践 &amp;ndash; 借助于形式化验证系统如Lean和Isabelle，LEGO-Prover可以从零开始或者从已被证明的定理库中学习如何证明定理、自动发现和生成可复用的引理，并在评测基准MiniF2F上取得了当前业界最好的成绩。可以预见，随着生成式AI尤其是大模型技术的不断发展，随着行业数字化进程的不断推进，越来越多的应用领域将发生AI范式转移。&#xA;个人简介：李震国博士是华为诺亚方舟AI基础理论实验室主任，香港科技大学计算机科学和工程系的兼职教授。在加入华为之前，他曾在哥伦比亚大学电气工程系担任副研究员。他在北京大学获得数学学士和硕士学位，在香港中文大学获得机器学习博士学位。他的研究兴趣包括机器学习和人工智能。他入选 AI 2000 Most Influential Scholars (by Aminer) ，Top 2% Most Highly Cited Scientists (by Stanford University)，并担任 NeurIPS 2023 和 ICLR 2024 领域主席。&#xA;\ 演讲人：林乾；主持人：常象宇&#xA;题目：Towards a statistical understanding of deep neural network: beyond the kernel regime&#xA;摘要：当前关于神经网络的泛化能力的研究主要分为两类：忽略了神经网络动力学性质的Holder理论以及针对较宽神经网络发展的神经正切核理论。我们将简单地回顾一下这些理论近期的结果及其一些有趣的推论，进一步它们所面临的一些挑战和一些可能的解决方式，比如近期关于神经网络的动力学行性质的‘一步’分析。如果时间允许，我们会提出‘自适应核理论’，一个可能用来解释神经网络有效性的理论。&#xA;个人简介：林乾，清华大学统计学研究中心副教授, 2010年在麻省理工数学系获得博士学位。2017年8月至今在清华大学任教。主要研究方向为高维充分性降维，机器学习中的核方法，深度学习的数学理论等。&#xA;\&#xA;8月24日:&#xA;演讲人：刘歆；主持人：孙文光&#xA;题目：&#xA;摘要：&#xA;个人简介：&#xA;演讲人：孟德宇；主持人：王晓飞&#xA;题目：无限维理解下的深度学习理论与算法&#xA;摘要：现有深度学习方法大多通过有限维的方式来对数据表示、网络架构等基本元素进行设计，然而，这些元素真正的内在表达却应为无限维。采用简化的有限维设计往往忽略算法各元素的本质无限维内涵，从而带来算法理论探索及应用扩展的局限。针对这一问题，本报告将尝试针对图像无限维表达、卷积核无限维表达、梯度场无限维表达等问题展开讨论，分别介绍研究团队在参数化卷积核，无限维神经表达，深度网络的类量子不确定性原理等深度学习基础理论与算法方面所作出的初步探索成果，并介绍基于其所延伸出一些典型示例应用。&#xA;个人简介：孟德宇，西安交通大学教授，博导，任大数据算法与分析技术国家工程实验室统计与大数据中心副主任。发表论文百余篇，谷歌学术引用超过27000次。现任TPAMI，NSR等7个国内外期刊编委。目前聚焦于机器学习基础理论与算法方面的研究。&#xA;演讲人：许志钦；主持人：孙文光&#xA;题目：现象驱动理解深度学习&#xA;摘要：本报告将从频率原则、凝聚等多个稳定且普遍的现象，介绍近年来深度学习的一些理论前沿，探讨现象驱动的理论研究如何推进深度学习的进展，并指导实际算法的设计，例如低频偏好的原则启发多种多尺度神经网络的算法设计。进一步，我们将设计一类锚函数，以低成本的现象驱动的方式研究大语言模型的机理，介绍大语言模型的一些底层机理。&#xA;个人简介：许志钦，上海交通大学自然科学研究院/数学科学学院长聘教轨副教授。2012年本科毕业于上海交通大学致远学院。2016年博士毕业于上海交通大学，获应用数学博士学位。2016年至2019年，在纽约大学阿布扎比分校和柯朗研究所做博士后。与合作者共同发现深度学习中的频率原则、参数凝聚和能量景观嵌入原则，发展多尺度神经网络、提出研究语言模型的锚函数等。发表论文于TPAMI，JMLR，AAAI，NeurIPS，SIMODS，CiCP，CSIAM-AM.等学术期刊和会议。现为Journal of Machine Learning的创刊managing editor。&#xA;\ </description>
+      <description>9:50 a.m. — 11:35 a.m., Friday, Aug.22, 2024</description>
     </item>
   </channel>
 </rss>
