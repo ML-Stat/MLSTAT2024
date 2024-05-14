@@ -1,8 +1,8 @@
 ---
-title: "平行论坛"
-summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2024"
+title: "Panel Discussion"
+summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 23, 2024"
 tags: "s1-1"
-weight: 130
+weight: 13
 ---
 
 Friday, Aug. 23, 2024
@@ -13,7 +13,7 @@ Friday, Aug. 23, 2024
 
 <div class="tip">
     <img class="icon" src="/images/yanjiang.png" />
-    Session: <span class="font-bold" style="font-size:120%">人工智能</span>
+    Session: <span class="font-bold" style="font-size:120%">Doctoral training, AI and statistics development</span>
 </div>
 
 <div class="tip">

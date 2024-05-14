@@ -65,12 +65,12 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/hongliu.png" class="avatar" />
+        <img src="/images/mdy.png" class="avatar" />
         <div class="font-small font-bold">
             Deyu Meng
         </div>
         <div class="institute">
-            XXX University
+            Xi'an Jiaotong University
         </div>
     </div>
     <div class="right">
@@ -97,12 +97,12 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/hongliu.png" class="avatar" />
+        <img src="/images/xuzq.jpg" class="avatar" />
         <div class="font-small font-bold">
             Zhiqing Xu
         </div>
         <div class="institute">
-            xxxxxx大学
+            Shang Hai Jiaotong University
         </div>
     </div>
     <div class="right">

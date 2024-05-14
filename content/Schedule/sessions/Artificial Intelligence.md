@@ -1,8 +1,8 @@
 ---
-title: "人工智能"
-summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2024"
+title: "Artificial Intelligence"
+summary: "1:30 p.m. — 3:00 p.m., Friday, Aug. 24, 2024"
 tags: "s1-1"
-weight: 120
+weight: 52
 ---
 
 Friday, Aug. 23, 2024
@@ -13,7 +13,7 @@ Friday, Aug. 23, 2024
 
 <div class="tip">
     <img class="icon" src="/images/yanjiang.png" />
-    Session: <span class="font-bold" style="font-size:120%">人工智能</span>
+    Session: <span class="font-bold" style="font-size:120%">Artificial Intelligence</span>
 </div>
 
 <div class="tip">
@@ -28,7 +28,7 @@ Friday, Aug. 23, 2024
 
 <div class="tip">
     <img class="icon" src="/images/lingdao.png" />
-    Session Chair: 许华哲, xxx University
+    Session Chair: Huazhe Xu, xxx University
 </div>
 
 
@@ -36,7 +36,7 @@ ________________________________________
 
 <html>
 <head>
-    <title>待定</title>
+    <title>Artificial Intelligence</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -96,7 +96,7 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">李斯源</div>
-            <div class="institute">xxx University</div>
+            <div class="institute">哈尔滨工业大学</div>
             <div class="title">Title: 机械臂操作技能学习技术研究</div>
             <div class="abstract">
                 <strong>Abstract:</strong> 操作能力是通用型机器人需要具备的重要能力之一。在本次报告中，演讲者将讨论基于深度强化学习、模仿学习的机械臂操作技能学习技术，重点关注操作技能学习中的奖励生成、以图像为观测的操作技能学习鲁棒性等问题，并展示相关研究工作在实体机械臂上的实验效果。
@@ -109,7 +109,7 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">马锐</div>
-            <div class="institute">xxx University</div>
+            <div class="institute">吉林大学</div>
             <div class="title">Title: 智能可控的可视媒体内容感知与生成</div>
             <div class="abstract">
                 <strong>Abstract:</strong> 以图像和三维图形内容为代表的可视媒体内容的感知与生成是计算机视觉和计算机图形学等领域长期以来的热门研究方向。随着大量可视媒体数据的涌现，基于人工智能和数据驱动的方法在图像理解、生成和三维内容分析与建模等任务上取得了显著的成果。然而，现有方法仍难以保证对具有复杂语义或者结构组成的可视媒体数据取得高质量的结果，算法的智能化和可控性仍有待提升。本报告将面向多种不同类别的可视媒体数据，介绍如何利用语义和结构等信息提升二维与三维内容感知和生成的准确度，并讨论如何在任务中引入不同模态的驱动或辅助信息，提升算法过程和结果的可控性，进而为更加智能可控的可视媒体内容感知与生成提供一些研究思路。
@@ -122,7 +122,7 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">许华哲</div>
-            <div class="institute">xxx University</div>
+            <div class="institute">清华大学</div>
             <div class="title">Title:Toward Generalizable Embodied AI</div>
             <div class="abstract">
                 <strong>Abstract:</strong> 泛化性能一直是具身智能的重要衡量标准。本次报告，演讲者将重点讨论具身智能的泛化能力，同时包括对视觉外观、光线、相机角度等方面的视觉泛化，也涵盖了对物体甚至跨种类物体的泛化能力。一系列的工作让机器人可以用相似的数据量和模型，泛化到更多的任务上。

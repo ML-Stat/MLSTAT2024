@@ -33,7 +33,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/sunjian.png" class="avatar" />
+        <img src="/images/lizg.jpg" class="avatar" />
         <div class="font-small font-bold">
             Zhenguo Li
         </div>
@@ -60,12 +60,12 @@ ________________________________________
 ________________________________________
 
 <div class="tip">
-    Host: Xiangyu Chang, XXX University
+    Host: Xiangyu Chang, Xi'an Jiao Tong University
 </div>
 
 <div class="row">
     <div class="left">
-        <img src="/images/hongliu.png" class="avatar" />
+        <img src="/images/linq.jpg" class="avatar" />
         <div class="font-small font-bold">
             Qian Lin
         </div>
@@ -80,11 +80,11 @@ ________________________________________
         </div>
         <div class="content font-small">
             <b>Abstract:</b> &nbsp;
-            当前关于神经网络的泛化能力的研究主要分为两类：忽略了神经网络动力学性质的Holder理论以及针对较宽神经网络发展的神经正切核理论。我们将简单地回顾一下这些理论近期的结果及其一些有趣的推论，进一步它们所面临的一些挑战和一些可能的解决方式，比如近期关于神经网络的动力学行性质的‘一步’分析。如果时间允许，我们会提出‘自适应核理论’，一个可能用来解释神经网络有效性的理论。
+            当前关于神经网络的泛化能力的研究主要分为两类：忽略了神经网络动力学性质的Holder理论以及针对较宽神经网络发展的神经正切核理论。我们将简单地回顾一下这些理论近期的结果及其一些有趣的推论，进一步它们所面临的一些挑战和一些可能的解决方式，比如近期关于神经网络的动力学行性质的“一步”分析。如果时间允许，我们会提出“自适应核理论”，一个可能用来解释神经网络有效性的理论。
         </div>
         <div class="content font-small">
             <b>Self Introduction:</b> &nbsp;
-            李震国博士是华为诺亚方舟AI基础理论实验室主任，香港科技大学计算机科学和工程系的兼职教授。在加入华为之前，他曾在哥伦比亚大学电气工程系担任副研究员。他在北京大学获得数学学士和硕士学位，在香港中文大学获得机器学习博士学位。他的研究兴趣包括机器学习和人工智能。他入选 AI 2000 Most Influential Scholars (by Aminer) ，Top 2% Most Highly Cited Scientists (by Stanford University)，并担任 NeurIPS 2023 和 ICLR 2024 领域主席。
+            林乾，清华大学统计学研究中心副教授, 2010年在麻省理工数学系获得博士学位。2017年8月至今在清华大学任教。主要研究方向为高维充分性降维，机器学习中的核方法，深度学习的数学理论等。
         </div>
     </div>
 </div>

@@ -31,7 +31,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/static/images/mdy.jpg" class="avatar" />
+        <img src="/images/zhihua.png" class="avatar" />
         <div class="font-small font-bold">
             Zhihua Zhang
         </div>
