@@ -9,38 +9,24 @@
     <atom:link href="https://ml-stat.github.io/MLSTAT2024/tags/k1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/1/</link>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/1/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/tutorial/</guid>
       <description>2:00 p.m. — 6:00 p.m., Friday, Aug.22, 2024</description>
     </item>
     <item>
       <title>Keynote Speech 1 and 2</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/2/</link>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/keynote-speech-1-and-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/2/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/keynote-speech-1-and-2/</guid>
       <description>9:50 a.m. — 11:35 a.m., Friday, Aug. 23, 2024</description>
     </item>
     <item>
       <title>Keynote Speech 3 and 4</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/3/</link>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/keynote-speech-3-and-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/3/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/keynote-speech-3-and-4/</guid>
       <description>9:50 a.m. — 11:35 a.m., Sunday, Aug. 24, 2024</description>
-    </item>
-    <item>
-      <title>无限维理解下的深度学习理论与算法</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/4/</guid>
-      <description>9:50 a.m. — 11:35 a.m., Friday, Aug. 23, 2024</description>
-    </item>
-    <item>
-      <title>现象驱动理解深度学习</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/5/</guid>
-      <description>9:50 a.m. — 11:35 a.m., Friday, Aug. 23, 2024</description>
     </item>
   </channel>
 </rss>

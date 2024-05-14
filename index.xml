@@ -9,16 +9,16 @@
     <atom:link href="https://ml-stat.github.io/MLSTAT2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/1/</link>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/1/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/tutorial/</guid>
       <description>2:00 p.m. — 6:00 p.m., Friday, Aug.22, 2024</description>
     </item>
     <item>
       <title>Keynote Speech 1 and 2</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/2/</link>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/keynote-speech-1-and-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/2/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/keynote-speech-1-and-2/</guid>
       <description>9:50 a.m. — 11:35 a.m., Friday, Aug. 23, 2024</description>
     </item>
     <item>
@@ -29,60 +29,46 @@
       <description>The 2nd International Conference on Machine Learning and Statistics (MLSTAT) will be held&#xA;Date: August 23-24, 2024. Localtion: 5268 Renmin Street, Nanguan District, Changchun City, Jilin Province, China (Renmin Street Campus). Aim: The Machine Learning and Statistics Conference (MLSTAT) is an academic conference that serves to facilitate scholarly exchange among domestic and international scholars in the fields of machine learning and statistics. Through fostering an academic culture that promotes the mutual development of machine learning and statistics, the conference aims to advance foundational disciplines such as data science and artificial intelligence, and thereby contribute to the development of related digital economic industries.</description>
     </item>
     <item>
-      <title>Keynote Speech 3 and 4</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/3/</link>
+      <title>Big Data Statistics and Computing</title>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/big-data-statistics-and-computing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/3/</guid>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/big-data-statistics-and-computing/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 23, 2024</description>
+    </item>
+    <item>
+      <title>Causality and reinforcement learning</title>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/causality-and-reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/causality-and-reinforcement-learning/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 23, 2024</description>
+    </item>
+    <item>
+      <title>Panel Discussion</title>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/panel-discussion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/panel-discussion/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 23, 2024</description>
+    </item>
+    <item>
+      <title>Keynote Speech 3 and 4</title>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/keynote-speech-3-and-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/keynote-speech-3-and-4/</guid>
       <description>9:50 a.m. — 11:35 a.m., Sunday, Aug. 24, 2024</description>
     </item>
     <item>
-      <title>无限维理解下的深度学习理论与算法</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/4/</link>
+      <title>Large Models and Graph Structures</title>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/large-models-and-graph-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/4/</guid>
-      <description>9:50 a.m. — 11:35 a.m., Friday, Aug. 23, 2024</description>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/large-models-and-graph-structures/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 24, 2024</description>
     </item>
     <item>
-      <title>现象驱动理解深度学习</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/5/</link>
+      <title>Artificial Intelligence</title>
+      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/artificial-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/5/</guid>
-      <description>9:50 a.m. — 11:35 a.m., Friday, Aug. 23, 2024</description>
-    </item>
-    <item>
-      <title>大数据统计与计算</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/6/</guid>
-      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2024</description>
-    </item>
-    <item>
-      <title>因果与强化学习</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/7/</guid>
-      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2024</description>
-    </item>
-    <item>
-      <title>大模型：理论、算法与应用</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/8/</guid>
-      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2024</description>
-    </item>
-    <item>
-      <title>人工智能</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/9/</guid>
-      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2024</description>
-    </item>
-    <item>
-      <title>平行论坛</title>
-      <link>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/10/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/10/</guid>
-      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 25, 2024</description>
+      <guid>https://ml-stat.github.io/MLSTAT2024/schedule/sessions/artificial-intelligence/</guid>
+      <description>1:30 p.m. — 3:00 p.m., Friday, Aug. 24, 2024</description>
     </item>
     <item>
       <title>Machine Learning and Statistics 2024 Organizing Committee</title>
