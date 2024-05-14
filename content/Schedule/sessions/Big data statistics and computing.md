@@ -22,13 +22,13 @@ Friday, Aug. 23, 2024
 </div>
 <div class="tip">
     <img class="icon" src="/images/didian.png" />
-    Location: 东北师范大学 唯真楼xx
+    Location: 东北师范大学 唯真楼
 </div>
 
 
 <div class="tip">
     <img class="icon" src="/images/lingdao.png" />
-    Session Chair: Sai Li, xxx University
+    Session Chair: Sai Li,  University
 </div>
 
 
