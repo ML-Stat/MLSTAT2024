@@ -17,15 +17,21 @@ Friday, Aug. 22, 2024
 </div> -->
 
 <div class="tip">
-    Time: 2:30 p.m. — 5:30 p.m.
+    <img class="icon" src="/icon/shizhong.png" />
+    <b>Time: </b>&nbsp;
+    2:30 p.m. — 5:30 p.m.
 </div>
 
 <div class="tip">
-    Location: Northeast Normal University Free Campus Weizhen Building
+    <img class="icon" src="/icon/didian.png" />
+    <b>Location: </b>&nbsp;
+    Northeast Normal University Free Campus Weizhen Building
 </div>
 
 <div class="tip">
-    Host: Shurong Zheng, Northeast Normal University
+    <img class="icon" src="/icon/lingdao.png" />
+    <b>Host: </b>&nbsp;
+    Shurong Zheng, Northeast Normal University
 </div>
 ________________________________________
 

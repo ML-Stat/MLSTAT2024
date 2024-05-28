@@ -17,15 +17,16 @@ Saturday, Aug. 23, 2024
 </div> -->
 
 <div class="tip">
-    <img class="icon" src="/icon/shizhong.png" />
-    Time: 9:00 a.m. — 11:30 a.m.
-</div>
-<div class="tip">
     <img class="icon" src="/icon/didian.png" />
     Location: Northeast Normal University Free Campus Weizhen Building
 </div>
 
 ________________________________________
+
+<div class="tip">
+    <img class="icon" src="/icon/shizhong.png" />
+    Time: 9:00 a.m. — 9:50 a.m.
+</div>
 
 <div class="tip">
     <img class="icon" src="/icon/lingdao.png" />
@@ -59,7 +60,11 @@ ________________________________________
     </div>
 </div>
 
-________________________________________
+
+<div class="tip">
+    <img class="icon" src="/icon/shizhong.png" />
+    Time: 10:00 a.m. — 10:50 a.m.
+</div>
 
 <div class="tip">
     <img class="icon" src="/icon/lingdao.png" />
@@ -93,7 +98,10 @@ ________________________________________
     </div>
 </div>
 
-________________________________________
+<div class="tip">
+    <img class="icon" src="/icon/shizhong.png" />
+    Time: 11:00 a.m. — 11:30 a.m.
+</div>
 
 <div class="tip">
     <img class="icon" src="/icon/schedule.png" />
