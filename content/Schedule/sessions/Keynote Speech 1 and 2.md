@@ -18,14 +18,16 @@ Saturday, Aug. 23, 2024
 
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
-    Location: Northeast Normal University Free Campus Weizhen Building
+    <b>Location: </b>&nbsp;
+    Northeast Normal University Free Campus Weizhen Building
 </div>
 
 ________________________________________
 
 <div class="tip">
     <img class="icon" src="/icon/shizhong.png" />
-    Time: 9:00 a.m. — 9:50 a.m.
+    <b>Time: </b>&nbsp;
+    9:00 a.m. — 9:50 a.m.
 </div>
 
 <div class="tip">
@@ -100,7 +102,8 @@ ________________________________________
 
 <div class="tip">
     <img class="icon" src="/icon/shizhong.png" />
-    Time: 11:00 a.m. — 11:30 a.m.
+    <b>Time: </b>&nbsp;
+    11:00 a.m. — 11:30 a.m.
 </div>
 
 <div class="tip">
