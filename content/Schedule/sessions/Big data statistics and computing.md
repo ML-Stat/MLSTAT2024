@@ -121,23 +121,19 @@ ________________________________________
     </div>
     <div class="row">
         <div class="container">
-            <img class="icon" src="/icon/shizhong.png" />
-            <b>Time: </b>&nbsp;
-            2:00 p.m. — 2:30 p.m.
+            <div class="abstract">
+                <strong>Panel Discussion:</strong> 大模型的发展历程与未来展望
+            </div>
+            <div class="abstract">
+                <strong>Time:</strong> 2:00 p.m. — 2:30 p.m.
+            </div>
+            <div class="abstract">
+                <strong>Organizer:</strong> Zhewei Wei
+            </div>
+            <div class="abstract">
+                <strong>Guest:</strong> Ju Zhu, Ruihua Song, Di He
+            </div>
         </div>
-            <img class="icon" src="/icon/schedule.png" />
-            <b>Panel Discussion:</b>&nbsp;
-            大模型的发展历程与未来展望
-        </div>
-            <img class="icon" src="/icon/lingdao.png" />
-            <b>Organizer:</b>&nbsp;
-            Zhewei Wei
-        </div>
-            <img class="icon" src="/icon/laoban.png" />
-            <b>Guest:</b>&nbsp;
-            Ju Zhu, Ruihua Song, Di He
-        </div>
-
     </div>
 </body>
 </html>
