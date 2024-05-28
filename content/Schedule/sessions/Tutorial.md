@@ -1,11 +1,11 @@
 ---
 title: "Tutorial"
-summary: "2:00 p.m. — 6:00 p.m., Friday, Aug.22, 2024"
+summary: "2:30 p.m. — 5:30 p.m., Friday, Aug.22, 2024"
 tags: "k1"
 weight: 9
 ---
 
-Thursday, Aug. 22, 2023
+Friday, Aug. 22, 2024
 ------
 
 
@@ -17,11 +17,11 @@ Thursday, Aug. 22, 2023
 </div> -->
 
 <div class="tip">
-    Time: 2:00 p.m. — 6:00 p.m.
+    Time: 2:30 p.m. — 5:30 p.m.
 </div>
 
 <div class="tip">
-    Location: 东北师范大学自由校区 惟真楼
+    Location: Northeast Normal University Free Campus Weizhen Building
 </div>
 
 <div class="tip">
@@ -36,17 +36,17 @@ ________________________________________
             Zhihua Zhang
         </div>
         <div class="institute">
-            Northeast Normal University
+            Beijing University
         </div>
     </div>
     <div class="right">
         <div class="font-small">
             <b>Title:</b>&nbsp;
-            XXXXXXXXXXXX
+            Techniques in Optimization and Sampling
         </div>
         <div class="content font-small">
             <b>Abstract:</b> &nbsp;
-            XXXXXXXXXXXX
+            这个短课程简要介绍机器学习中的优化和采样的一些重要技术以及最新进展。
         </div>
     </div>
 </div>
