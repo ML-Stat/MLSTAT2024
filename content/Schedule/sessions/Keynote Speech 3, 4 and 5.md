@@ -77,7 +77,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/mdy.jpg" class="avatar" />
+        <img src="/images/mdy.png" class="avatar" />
         <div class="font-small font-bold">
             Deyu Meng
         </div>
