@@ -1,11 +1,11 @@
 ---
-title: "Tutorial"
-summary: "2:30 p.m. — 5:30 p.m., Thursday, Aug.22, 2024"
+title: "Panel Discussion 2"
+summary: "3:00 p.m. — 3:30 p.m., Friday, Aug. 23, 2024"
 tags: "k1"
-weight: 9
+weight: 13
 ---
 
-Thursday, Aug. 22, 2024
+Friday, Aug. 23, 2024
 ------
 
 
@@ -17,44 +17,33 @@ Thursday, Aug. 22, 2024
 </div> -->
 
 <div class="tip">
-    <img class="icon" src="/icon/shizhong.png" />
-    <b>Time: </b>&nbsp;
-    2:30 p.m. — 5:30 p.m.
-</div>
-
-<div class="tip">
     <img class="icon" src="/icon/didian.png" />
     <b>Location: </b>&nbsp;
     Northeast Normal University Free Campus Weizhen Building
 </div>
 
 <div class="tip">
-    <img class="icon" src="/icon/lingdao.png" />
-    <b>Host: </b>&nbsp;
-    Shurong Zheng, Northeast Normal University
+    <img class="icon" src="/icon/shizhong.png" />
+    <b>Time: </b>&nbsp;
+    3:00 p.m. — 3:30 p.m.
 </div>
-________________________________________
 
-<div class="row">
-    <div class="left">
-        <img src="/images/zhihua.png" class="avatar" />
-        <div class="font-small font-bold">
-            Zhihua Zhang
-        </div>
-        <div class="institute">
-            Peking University
-        </div>
-    </div>
-    <div class="right">
-        <div class="font-small">
-            <b>Title:</b>&nbsp;
-            Techniques in Optimization and Sampling
-        </div>
-        <div class="content font-small">
-            <b>Abstract:</b> &nbsp;
-            这个短课程简要介绍机器学习中的优化和采样的一些重要技术以及最新进展。
-        </div>
-    </div>
+<div class="tip">
+    <img class="icon" src="/icon/schedule.png" />
+    <b>Panel Discussion:</b>&nbsp;
+    大模型的发展历程与未来展望
+</div>
+
+<div class="tip">
+    <img class="icon" src="/icon/lingdao.png" />
+    <b>Organizer:</b>&nbsp;
+    Zhewei Wei
+</div>
+
+<div class="tip">
+    <img class="icon" src="/icon/yanjiang.png" />
+    <b>Guests:</b>&nbsp;
+    Jun Zhu, Ruihua Song and Di He
 </div>
 
 <style>
@@ -97,6 +86,7 @@ ________________________________________
 
 .font-small {
     /* font-size: 16px; */
+    text-align: left;
 }
 
 .font-bold {

@@ -1,11 +1,11 @@
 ---
 title: "Keynote Speech 1 and 2"
-summary: "9:00 a.m. — 11:30 a.m., Saturday, Aug. 23, 2024"
+summary: "9:00 a.m. — 10:50 a.m., Friday, Aug. 23, 2024"
 tags: "k1"
 weight: 10
 ---
 
-Saturday, Aug. 23, 2024
+Friday, Aug. 23, 2024
 ------
 
 
@@ -33,7 +33,7 @@ ________________________________________
 <div class="tip">
     <img class="icon" src="/icon/lingdao.png" />
     <b>Host:</b>&nbsp;
-    Yi Chang, _______ University
+    Yi Chang, Jilin University
 </div>
 
 <div class="row">
@@ -65,7 +65,8 @@ ________________________________________
 
 <div class="tip">
     <img class="icon" src="/icon/shizhong.png" />
-    Time: 10:00 a.m. — 10:50 a.m.
+    <b>Time: </b>&nbsp;
+    10:00 a.m. — 10:50 a.m.
 </div>
 
 <div class="tip">
@@ -99,25 +100,6 @@ ________________________________________
         </div>
     </div>
 </div>
-
-<div class="tip">
-    <img class="icon" src="/icon/shizhong.png" />
-    <b>Time: </b>&nbsp;
-    11:00 a.m. — 11:30 a.m.
-</div>
-
-<div class="tip">
-    <img class="icon" src="/icon/schedule.png" />
-    <b>Panel Discussion:</b>&nbsp;
-    Statistics Meets AI
-</div>
-
-<div class="tip">
-    <img class="icon" src="/icon/lingdao.png" />
-    <b>Organizer:</b>&nbsp;
-    Zhihuang Zhang and Shurong Zheng
-</div>
-
 
 <style>
 
