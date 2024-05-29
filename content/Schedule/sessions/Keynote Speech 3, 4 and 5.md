@@ -39,7 +39,7 @@ ________________________________________
 <div class="row">
     <div class="left">
         <img src="/images/liuyun.jpg" class="avatar" />
-        <div class="font-small font-bold">
+        <div class="font-big font-bold">
             Yun Liu
         </div>
         <div class="institute">
@@ -78,7 +78,7 @@ ________________________________________
 <div class="row">
     <div class="left">
         <img src="/images/mdy.png" class="avatar" />
-        <div class="font-small font-bold">
+        <div class="font-big font-bold">
             Deyu Meng
         </div>
         <div class="institute">
@@ -117,7 +117,7 @@ ________________________________________
 <div class="row">
     <div class="left">
         <img src="/images/xzq.jpg" class="avatar" />
-        <div class="font-small font-bold">
+        <div class="font-big font-bold">
             Zhiqing Xu
         </div>
         <div class="institute">
@@ -181,6 +181,11 @@ ________________________________________
 .font-small {
     /* font-size: 16px; */
     text-align: left;
+}
+
+.font-big {
+    /* font-size: 16px; */
+    text-align: center;
 }
 
 .font-bold {

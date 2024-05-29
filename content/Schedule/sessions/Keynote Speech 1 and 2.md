@@ -39,7 +39,7 @@ ________________________________________
 <div class="row">
     <div class="left">
         <img src="/images/lizg.jpg" class="avatar" />
-        <div class="font-small font-bold">
+        <div class="font-big font-bold">
             Zhenguo Li
         </div>
         <div class="institute">
@@ -78,7 +78,7 @@ ________________________________________
 <div class="row">
     <div class="left">
         <img src="/images/linq.jpg" class="avatar" />
-        <div class="font-small font-bold">
+        <div class="font-big font-bold">
             Qian Lin
         </div>
         <div class="institute">
@@ -142,6 +142,11 @@ ________________________________________
 .font-small {
     /* font-size: 16px; */
     text-align: left;
+}
+
+.font-big {
+    /* font-size: 16px; */
+    text-align: center;
 }
 
 .font-bold {
