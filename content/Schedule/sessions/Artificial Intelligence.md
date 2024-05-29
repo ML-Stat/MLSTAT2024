@@ -28,7 +28,7 @@ Saturday, Aug. 24, 2024
 
 <div class="tip">
     <img class="icon" src="/images/lingdao.png" />
-    Session Chair: Huazhe Xu
+    Session Chair: Huazhe Xu, Institute of Interdisciplinary Information Sciences, Tsinghua University
 </div>
 
 ________________________________________

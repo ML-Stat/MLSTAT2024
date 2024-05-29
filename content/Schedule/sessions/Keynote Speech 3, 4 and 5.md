@@ -38,7 +38,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/lizg.jpg" class="avatar" />
+        <img src="/images/liuyun.jpg" class="avatar" />
         <div class="font-small font-bold">
             Yun Liu
         </div>
@@ -77,7 +77,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/linq.jpg" class="avatar" />
+        <img src="/images/mdy.jpg" class="avatar" />
         <div class="font-small font-bold">
             Deyu Meng
         </div>
@@ -116,7 +116,7 @@ ________________________________________
 
 <div class="row">
     <div class="left">
-        <img src="/images/linq.jpg" class="avatar" />
+        <img src="/images/xzq.jpg" class="avatar" />
         <div class="font-small font-bold">
             Zhiqing Xu
         </div>
