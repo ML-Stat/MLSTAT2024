@@ -1,5 +1,5 @@
 ---
-title: "Panel Discussion 1"
+title: "Panel Discussion: Statistics Meets AI"
 summary: "11:00 a.m. — 11:30 a.m., Friday, Aug. 23, 2024"
 tags: "k1"
 weight: 11
@@ -19,7 +19,7 @@ Friday, Aug. 23, 2024
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
     <b>Location: </b>&nbsp;
-    Northeast Normal University Free Campus Weizhen Building
+    Weizhen Building，Free Campus，Northeast Normal University
 </div>
 
 <div class="tip">

@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Embodied AI"
 summary: "3:45 p.m. — 5:45 p.m., Saturday, Aug. 24, 2024"
 tags: "s1-1"
 weight: 17
@@ -13,7 +13,7 @@ Saturday, Aug. 24, 2024
 
 <div class="tip">
     <img class="icon" src="/images/yanjiang.png" />
-    Session: <span class="font-bold" style="font-size:120%">Artificial Intelligence</span>
+    Session: <span class="font-bold" style="font-size:120%">Embodied AI</span>
 </div>
 
 <div class="tip">
@@ -22,7 +22,7 @@ Saturday, Aug. 24, 2024
 </div>
 <div class="tip">
     <img class="icon" src="/images/didian.png" />
-    Location: Northeast Normal University Free Campus Weizhen Building
+    Location: Weizhen Building，Free Campus，Northeast Normal University
 </div>
 
 

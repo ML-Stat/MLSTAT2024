@@ -25,7 +25,7 @@ Thursday, Aug. 22, 2024
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
     <b>Location: </b>&nbsp;
-    Northeast Normal University Free Campus Weizhen Building
+    Weizhen Building，Free Campus，Northeast Normal University
 </div>
 
 <div class="tip">
@@ -54,6 +54,10 @@ ________________________________________
             <b>Abstract:</b> &nbsp;
             这个短课程简要介绍机器学习中的优化和采样的一些重要技术以及最新进展。
         </div>
+        <div class="content font-small">
+            <b>CV:</b> &nbsp;
+            张志华，北京大学数学科学学院教授。之前曾经先后任教于浙江大学和上海交通大学，任聘计算机科学教授。主要从事应用统计、机器学习与人工智能领域的研究和教学。是国际机器学习旗舰刊物Journal of Machine Learning Research的执行编委，并多次受邀担任国际机器学习和人工智能顶级学术会议的高级程序委员或领域主席。讲授有网络公开课《统计机器学习》、《机器学习导论》、《应用数学基础》和《强化学习》等。2021年9月，发起成立了中国现场统计研究会机器学习分会。
+        </div>  
     </div>
 </div>
 

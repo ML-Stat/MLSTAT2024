@@ -19,7 +19,7 @@ Friday, Aug. 23, 2024
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
     <b>Location: </b>&nbsp;
-    Northeast Normal University Free Campus Weizhen Building
+    Weizhen Building，Free Campus，Northeast Normal University
 </div>
 
 ________________________________________

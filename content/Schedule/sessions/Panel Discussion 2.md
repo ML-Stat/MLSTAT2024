@@ -1,5 +1,5 @@
 ---
-title: "Panel Discussion 2"
+title: "Panel Discussion 2: 大模型的发展历程与未来展望"
 summary: "3:00 p.m. — 3:30 p.m., Friday, Aug. 23, 2024"
 tags: "k1"
 weight: 13
@@ -19,7 +19,7 @@ Friday, Aug. 23, 2024
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
     <b>Location: </b>&nbsp;
-    Northeast Normal University Free Campus Weizhen Building
+    Weizhen Building，Free Campus，Northeast Normal University
 </div>
 
 <div class="tip">

@@ -1,5 +1,5 @@
 ---
-title: "Causality and reinforcement learning"
+title: "Causality and Reinforcement Learning"
 summary: "3:45 p.m. — 5:45 p.m., Friday, Aug. 23, 2024"
 tags: "s1-1"
 weight: 14
@@ -13,7 +13,7 @@ Friday, Aug. 23, 2024
 
 <div class="tip">
     <img class="icon" src="/images/yanjiang.png" />
-    Session: <span class="font-bold" style="font-size:120%">Causality and reinforcement learning</span>
+    Session: <span class="font-bold" style="font-size:120%">Causality and Reinforcement Learning</span>
 </div>
 
 <div class="tip">
@@ -22,7 +22,7 @@ Friday, Aug. 23, 2024
 </div>
 <div class="tip">
     <img class="icon" src="/images/didian.png" />
-    Location: Northeast Normal University Free Campus Weizhen Building
+    Location: Weizhen Building，Free Campus，Northeast Normal University
 </div>
 
 
@@ -35,7 +35,7 @@ ________________________________________
 
 <html>
 <head>
-    <title>Causality and reinforcement learning</title>
+    <title>Causality and Reinforcement Learning</title>
     <style>
         body {
             font-family: Arial, sans-serif;
