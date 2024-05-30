@@ -82,7 +82,7 @@ ________________________________________
     <div class="row">
         <div class="container">
             <div class="name-bar">Jun Zhu</div>
-            <div class="institute">Computer Department of Tsinghua University</div>
+            <div class="institute">Department of Computer Science, Tsinghua University</div>
             <div class="title">Title: 扩散概率模型的前沿进展</div>
             <div class="abstract">
                 <strong>Abstract:</strong> AIGC发展迅速，扩散概率模型是AIGC的关键技术之一，在跨模态的文图生成、3D生成、视频生成等方面取得显著进展。该报告将介绍扩散概率模型的若干进展，包括扩散概率模型的基础理论和高效算法、大规模多模态扩散模型、文到3D生成、文到视频生成等内容。
