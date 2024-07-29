@@ -19,7 +19,7 @@ Friday, Aug. 23, 2024
 <div class="tip">
     <img class="icon" src="/icon/didian.png" />
     <b>Location: </b>&nbsp;
-    Weizhen Building，Free Campus，Northeast Normal University
+    Weizhen Building，Ziyou Campus，Northeast Normal University（东北师范大学自由校区惟真楼）
 </div>
 
 ________________________________________
