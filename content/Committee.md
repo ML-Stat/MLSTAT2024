@@ -10,7 +10,7 @@ ________________________________________
 - **Program Committee** 
     - **Program Chair**:\
      Jianxing Yin, Renmin University of China\
-     Zhou Yu, Northeast Normal University
+     Zhou Yu, East China Normal University
     - **Program Members**:\
     Jinyuan Chang, Southwest University of Finance and Economics\
     Yi Chang, Jilin University\
@@ -33,6 +33,4 @@ Shurong Zheng, Northeast Normal University
 Jing Chen, Northeast Normal University\
 Jingjing Jiang, Northeast Normal University\
 Xiaozhuo Zhang, Northeast Normal University
-
-
 
