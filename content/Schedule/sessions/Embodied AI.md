@@ -81,7 +81,7 @@ ________________________________________
 <body>
     <div class="row">
         <div class="container">
-            <div class="name-bar">Xing Zhao</div>
+            <div class="name-bar">Hang Zhao</div>
             <div class="institute">Institute of Interdisciplinary Information Sciences, Tsinghua University</div>
             <div class="title">Title: 机器人跑酷</div>
             <div class="abstract">

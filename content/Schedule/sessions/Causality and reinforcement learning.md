@@ -91,19 +91,6 @@ ________________________________________
     </div>
     <div class="row">
         <div class="container">
-            <div class="name-bar">Shaobo Lin</div>
-            <div class="institute">School of Management, Xi'an Jiaotong University</div>
-            <div class="title">Title: The power of depth in deep Q-Learning</div>
-            <div class="abstract">
-                <strong>Abstract:</strong> With the help of massive data and rich computational resource, deep Q-learning has been widely used in operations research and management science and receives great success in numerous applications including, recommender system, games and robotic manipulation. Compared with avid research activities in practice, there lack solid theoretical verifications and interpretability for the success of deep Q-learning, making it be a little bit mystery. The aim of this talk is to discuss the power of depth in deep Q-learning. In the framework of learning theory, we rigorously prove that deep Q-learning outperforms the traditional one by showing its good generalization error bound.  Our results show that the main reason of the success of deep Q-learning is due to the excellent performance of  deep neural networks (deep nets) in capturing special properties of rewards such as the spatially sparse and piecewise constant rather than due to their large capacities. In particular, we provide answers to questions why and when deep Q-learning performs better than the traditional one and how about the generalization capability of deep Q-learning.
-            </div>
-            <div class="abstract">
-                <strong>CV:</strong> 西安交通大学管理学院，教授、博士生导师。研究方向为函数逼近论、分布式学习理论、深度学习理论及强化学习理论。在应用数学顶级期刊ACHA、SINUM、SISC及机器学习顶级期刊JMLR，TPAMI，TIT等发表论文80余篇。主持或以核心骨干参与国家级课题11项。
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="container">
             <div class="name-bar">Yuqian Zhang</div>
             <div class="institute">Institute of Statistics and Big Data, Renmin University of China</div>
             <div class="title">Title: Adaptive Split Balancing for Optimal Random Forest</div>
